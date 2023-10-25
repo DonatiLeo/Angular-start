@@ -18,7 +18,9 @@
 		},
 		"vscode": {
 			"extensions": [
-				"Angular.ng-template"
+				"Angular.ng-template",
+				"johnpapa.angular-essentials",
+				"GitHub.copilot"
 			]
 		}
 	  }	  
