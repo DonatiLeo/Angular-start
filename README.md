@@ -2,7 +2,7 @@
 ## Leo Donati, Université Côte d'Azur (UniCA)
 Repository de démarrage pour le cours de Angular
 
-* Si vous utilisez le github Codespace, alors dans votre machine virtuelle `npm`, `node` et `angular/CLI` sont déjà installés.
+* Si vous utilisez le github Codespace (bouton ci-dessus), alors dans votre machine virtuelle `npm`, `node` et `angular/CLI` sont déjà installés.
 * Pour cloner en local ce repository, il faut :
    1. avoir installé `git` (ou `gitbash`) sur votre machine
    1. créer un répertoire de travail et s'y déplacer
