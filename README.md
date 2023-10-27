@@ -13,7 +13,7 @@ git clone nom-du-repository
 
 
 
-### Pour vérifier que l'installation est complète
+### Pour vérifier que l'installation de votre poste est complète
 
 ```bash 
 npm --version
