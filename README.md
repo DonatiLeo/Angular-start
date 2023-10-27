@@ -21,3 +21,7 @@ node --version
 ng version
 ```
 
+### Ce fichier README doit être remplacé par votre propre fichier README qui tinet compte de l'évolution de votre projet
+
+> [!IMPORTANT]
+> N'oubiliez pas de faire des commits et des push régulièrement (au minimum une foir par jour!)
